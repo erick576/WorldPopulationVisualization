@@ -18,6 +18,6 @@ This is a project that I created in order to visualize population data for count
 **2.** Install [Python](https://realpython.com/installing-python/)
 **3.** Install [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 **4.** Open Anaconda Prompt On terminal
-**5.** Navigate to Porject Folder
+**5.** Navigate to Project Folder
 **6.** Type **```jupyter notebook```**
 **7.** Open **```World_Population_Visualization.ipynb```**
