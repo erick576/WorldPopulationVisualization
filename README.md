@@ -4,6 +4,11 @@
 ## What is this Project?
 This is a project that I created in order to visualize population data for countries around the world. What this is meant to do is give people insight on the many relationships and trends that are present in the worlds growing population. This also displays the many ways that we can represent data.
 
+## Interactive Map
+![Image description](https://github.com/erick576/WorldPopulationVisualization/blob/master/newplot.png)
+
+To Try out this Map Follow the **Run Instructions**
+
 ## How did I do it?
 - Initially to get the Data to graph I used Web Scraping with a Python library called **BeautifulSoup**. This allowed me to grab the useful information from the HTML text on the website to that I could then format the data. 
 
