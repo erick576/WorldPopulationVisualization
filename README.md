@@ -7,7 +7,7 @@ This is a project that I created in order to visualize population data for count
 ## Interactive Map
 ![Image description](https://github.com/erick576/WorldPopulationVisualization/blob/master/newplot.png)
 
-To Try out this Map Put this [**URL**](https://github.com/erick576/WorldPopulationVisualization/blob/master/World_Population_Visualization.ipynb) **into** [**nbviewer**](https://nbviewer.jupyter.org)
+To Try out this Map click this [**URL**](https://nbviewer.jupyter.org/github/erick576/WorldPopulationVisualization/blob/master/.ipynb_checkpoints/World_Population_Visualization-checkpoint.ipynb)
 
 **Note:**** There is a chance it wont work due to Github related issues. If so, just follow the **Run Instructions**
 
