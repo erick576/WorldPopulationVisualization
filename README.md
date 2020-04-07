@@ -9,7 +9,7 @@ This is a project that I created in order to visualize population data for count
 
 - I used a Python library called **Pandas** in order to turn the data that I collected into a Data Frame that would then be used to create the graphs.
 
-- I then proceeded to utilize Python libraries such as **Matplotlib** and **Seaborn** in order to represent, manipulate and style the information inside of the DataFrame.
+- I then proceeded to utilize Python libraries such as **Matplotlib**, **Seaborn** and **plotly** in order to represent, manipulate and style the information inside of the DataFrame.
 
 ## Run Instructions
 | *Steps* |
