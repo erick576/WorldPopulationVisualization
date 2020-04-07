@@ -7,7 +7,7 @@ This is a project that I created in order to visualize population data for count
 ## Interactive Map
 ![Image description](https://github.com/erick576/WorldPopulationVisualization/blob/master/newplot.png)
 
-To Try out this Map Follow the **Run Instructions**
+To Try out this Map Put this [**URL**](https://github.com/erick576/WorldPopulationVisualization/blob/master/World_Population_Visualization.ipynb) **into** [**nbviewer**](https://nbviewer.jupyter.org)
 
 ## How did I do it?
 - Initially to get the Data to graph I used Web Scraping with a Python library called **BeautifulSoup**. This allowed me to grab the useful information from the HTML text on the website to that I could then format the data. 
